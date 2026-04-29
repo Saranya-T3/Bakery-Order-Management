@@ -1,0 +1,1 @@
+A web-based Bakery Order Management System designed to improve operational efficiency using Greedy Algorithm for order prioritization and Dynamic Programming for ingredient optimization. Includes features like order tracking, inventory management, and analytics dashboard. It intelligently schedules orders and optimizes ingredient allocation to reduce delays and minimize wastage.
